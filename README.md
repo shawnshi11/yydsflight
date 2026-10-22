@@ -119,20 +119,6 @@ YYDS Flight（yydsflight.com）是一个面向「想顺畅上网」用户的**�
 
 ---
 
-## 🛠️ 技术栈（本站开源组件）
-
-YYDS Flight 官网与面板基于以下技术构建：
-
-- **[Halo](https://github.com/halo-dev/halo)** — 现代开源建站平台（面板/内容）
-- **shop-lite** — 自研订阅售卖插件（套餐展示 / 下单 / 支付宝支付 / 兑换码 / 节点下发）
-- **[XrayR](https://github.com/XrayR-project/XrayR)** — 节点后端（多协议：V2Ray / Trojan / Shadowsocks / Reality）
-- **Caddy** — 反向代理与 TLS
-- **Cloudflare** — DNS / 边缘
-
-> 本仓库为 YYDS Flight 项目主页。服务本身运行于上述开源技术之上，感谢各开源项目。
-
----
-
 ## 📄 免责声明
 
 - 本站服务仅供**学习交流、技术研究**之用，请遵守你所在国家/地区的法律法规。
